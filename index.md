@@ -8,13 +8,11 @@ Texto del sapito conectando con calentamiento global, definición y preocupacion
 
 Algunas catastrofes climáticas estan relacionadas al calentamiento global.
 
-De hecho, las podemos observar en el conjunto de datos principal del desafio. Por ejemplo:
+De hecho, las podemos observar usando el conjunto de datos principal del desafio. Por ejemplo:
 
-Huracan 1 del
+Huracan Irma del 9 al 11 de septiembre de 2017:
 
 ![comparacao!](/anexos/shortgif.gif) 
-
-y gif
 
 Huracan 2 y gif
 
