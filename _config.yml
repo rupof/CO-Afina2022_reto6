@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+
+
+menu:
+  - text: Discusión técnica
+    link: https://rupof.github.io/discusion_tecnica.md
