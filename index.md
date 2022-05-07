@@ -11,8 +11,11 @@ Algunas catastrofes climáticas estan relacionadas al calentamiento global.
 De hecho, las podemos observar usando el conjunto de datos principal del desafio. Por ejemplo:
 
 Huracan Irma del 9 al 11 de septiembre de 2017:
-
+<!---
 ![comparacao!](/anexos/shortgif.gif) 
+
+-->
+<img src="/anexos/shortgif.gif" alt="drawing" width="300"/>
 
 Huracan 2 y gif
 
