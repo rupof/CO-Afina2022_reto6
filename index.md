@@ -1,12 +1,37 @@
-## Welcome to GitHub Pages
+## Guardianes del clima
 
-You can use the [editor on GitHub](https://github.com/rupof/CO-Afina2022_reto6/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Ejemplo del sapo.
+Texto del sapito conectando con calentamiento global, definición y preocupaciones. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Objetivo: Usar datos atmosféricos del desafio para mostrar cualitativamente el calentamiento global.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Algunas catastrofes climáticas estan relacionadas al calentamiento global.
+
+De hecho, las podemos observar en el conjunto de datos principal del desafio. Por ejemplo:
+
+Huracan 1 y gif
+
+Huracan 2 y gif
+
+Huracan 3 y gif
+
+Más fenomenos naturales (?)...
+
+En el reto, a partir de los datos de vapor de agua mostramos cualitativamente como la temperatura ha aumentado
+
+Ahora, que podemos hacer para mejorar todo esto:
+
+
+Imagen solución 1
+
+Imagen solución 2
+
+Imagen solución 3
+
+
+
+
 
 ```markdown
 Syntax highlighted code block
