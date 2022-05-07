@@ -10,7 +10,11 @@ Algunas catastrofes climáticas estan relacionadas al calentamiento global.
 
 De hecho, las podemos observar en el conjunto de datos principal del desafio. Por ejemplo:
 
-Huracan 1 y gif
+Huracan 1 del
+
+![comparacao!](/anexos/shortgif.gif) 
+
+y gif
 
 Huracan 2 y gif
 
