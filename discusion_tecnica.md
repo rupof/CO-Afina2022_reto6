@@ -5,5 +5,5 @@ El vapor de agua es una función relevante en el cambio climático. El nivel de 
 Datos del vapor de agua en América están disponibles a partir de datos atmósfericos ofrecidos por los retadores en [GIBBS](https://www.ncdc.noaa.gov/gibbs/year). En nuestro desafio, extraimos todas las imagenes del satélite GOES-13 del periodo XX hasta XX
 
 
-![time_series!](/time_series.png ""){:height="400px" width="600px"}
+![time_series!](/anexos/time_series.png "")
 
