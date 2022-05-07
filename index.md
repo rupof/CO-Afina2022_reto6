@@ -18,7 +18,9 @@ Huracan 3 y gif
 
 Más fenomenos naturales (?)...
 
-En el reto, a partir de los datos de vapor de agua mostramos cualitativamente como la temperatura ha aumentado
+En el reto, a partir de los datos de vapor de agua mostramos cualitativamente como la temperatura ha aumentado. Estas analisis están aqui
+
+[aqui](./discusion_tecnica.md)
 
 Ahora, que podemos hacer para mejorar todo esto:
 
