@@ -124,7 +124,7 @@ Ahora, sigue una discusión técnica de nuestra trabajo sobre lo hecho con los d
 
 El vapor de agua es un parámetro relevante en el estudio del cambio climático. El nivel de vapor de agua en la tierra es controlado por la temperatura [[7]](https://www.acs.org/content/acs/en/climatescience/about.html), es decir, mayor temperatura implica mayor vapor de agua. Por ejemplo, sí un volumen de aire contiene su cantidad máxima de vapor de agua y la temperatura disminuye, parte de este vapor va a condensar a su forma líquida.
 
-Datos del vapor de agua en América están disponibles a partir de patrones atmósfericos ofrecidos por los retadores en GIBBS [[6]](https://www.ncdc.noaa.gov/gibbs/year). En nuestro desafio, estudiamos estos datos. Para hacer esto:
+Datos del vapor de agua en América están disponibles a partir de patrones atmósfericos ofrecidos por los retadores en GIBBS [[6]](https://www.ncdc.noaa.gov/gibbs/year). En nuestro desafio, estudiamos estos datos siguiendo los siguientes pasos:
 
 1. Extraimos todas las imagenes del satélite GOES-13 desde el 2003 hasta el 2013. Desarrollamos un pequeño [código](/extractor_de_imagenes.sh) para extraer las [imagenes](https://drive.google.com/drive/folders/1dtMERwYcy7sitbOjw02etwdH57ZS2JqX?usp=sharing)
 2. Los datos atmosféricos fueron transformados en histogramas [computacionalmente](https://nbviewer.org/github/Migusb/CO-Afina2022/blob/master/CO-Afina2022.ipynb).
