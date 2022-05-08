@@ -12,6 +12,6 @@ Una manera de visualizar el cambio climático es a través del estudio de imáge
 
 En nuestra sitio, discutimos el calentamiento global de **dos formas**:
 
-1. ![Ilustrando e discutiendo conceptos del clima](./discusion_amplia.md) 
+![Ilustrando e discutiendo conceptos del clima](./discusion_amplia.md) 
 
-2. ![Tratando computacionalmente los datos de imagenes satelitales proporcionados por el hackathon](./discusion_tecnica.md)
+![Tratando computacionalmente los datos de imagenes satelitales proporcionados por el hackathon](./discusion_tecnica.md)
