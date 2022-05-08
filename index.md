@@ -8,9 +8,9 @@ Somos Los Guardianes del Clima y venimos a hablarte sobre el cambio climático..
 # 🌎 El cambio climático
 El cambio climático es la variación del clima durante periodos de tiempo comparables que altera la composición de la atmósfera y como consecuencia afecta nuestros ecosistemas. Tristemente, la actividad humana ha producido de forma directa o indirecta el rápido cambio climático [1]. 
 
-Sabías que, gran parte de estas alteraciones climáticas se debe a  las pequeñas variaciones en la órbita de la Tierra, dichas variaciones aumentan la cantidad de energía solar que recibe nuestro planeta [2]. 
+Sabías que, gran parte de estas alteraciones climáticas se deben a  las pequeñas variaciones en la órbita de la Tierra, dichas variaciones aumentan la cantidad de energía solar que recibe nuestro planeta [2]. 
 
-Hagamos un pequeño experimento mental, imaginemos que tenemos una rana dentro de una olla con agua dándose un baño, ahora si colocamos esa olla con la rana a fuego lento, la rana no percibe que el agua se está calentando. Luego de un determinado periodo la rana muere ya que no noto que se estuvo cocinando. La rana somos nosotros!
+Hagamos un pequeño experimento mental, imaginemos que tenemos una rana dentro de una olla con agua dándose un baño, ahora si colocamos esa olla con la rana a fuego lento, la rana no percibe que el agua se está calentando. Luego de un determinado periodo la rana muere ya que no notó que se estuvo cocinando. La rana somos nosotros!
 
 
 ![comparacao!](/anexos/Rana_hervida.png) 
@@ -19,7 +19,7 @@ Hagamos un pequeño experimento mental, imaginemos que tenemos una rana dentro d
 
 Una manera de visualizar el cambio climático es a través del estudio de imágenes proporcionadas por satélites, variaciones en el tiempo pueden ser determinadas de esta forma. Debido a esto, nuestro objetivo es **usar datos atmosféricos para mostrar cualitativamente el calentamiento global**.
 
-Primero, veremos una discusión amplia y pedagogica sobre el calentamiento global y después nuestra tratamiento técnico.
+Primero, veremos una discusión amplia y pedagógica sobre el calentamiento global y después nuestro tratamiento técnico.
 
 
 
@@ -58,11 +58,11 @@ Los glaciares se están retrayendo en casi todas partes del mundo. Por ejemplo, 
 
 ### ❄️ Cubierta de nieve reducida: 
 
-Durante las ultimas cinco decadas la cubierta de hemiferio norte ha disminuido.
+Durante las ultimas cinco décadas la cubierta de hemiferio norte ha disminuido.
 
 ### 🧊 Capas de hielo que se encogen: 
 
-Segun la medición de la masa de hielo por los satélites GRACE de la NASA, sabemos que las capas de hielo de Groenlandia ha disminuido un promedio de 279000 millones de toneladas de hielo por año, mientras que la Antartida perdió aproximadamente 14800 millones de toneladas por año en un periodo de 1993-2019.
+Según la medición de la masa de hielo por los satélites GRACE de la NASA, sabemos que las capas de hielo de Groenlandia han disminuido un promedio de 279000 millones de toneladas de hielo por año, mientras que la Antartida perdió aproximadamente 14800 millones de toneladas por año en un periodo de 1993-2019.
 
 ![comparacao!](/anexos/LandIceAntarctica.png) 
 
@@ -118,11 +118,11 @@ Que podemos hacer:
 
 
 
-Ahora, sigue una discusión técnica de nuestra trabajo sobre lo hecho con los datos atmosféricos del hackathon. 
+Ahora, sigue una discusión técnica de nuestra trabajo sobre lo hecho con los datos atmosféricos del **hackathon**. 
 
 # 🤓 Discusión técnica
 
-El vapor de agua es una parámetro relevante en el estudio del cambio climático. El nivel de vapor de agua en la tierra es controlado por la temperatura [[7]](https://www.acs.org/content/acs/en/climatescience/about.html), o sea, mayor temperatura implica mayor vapor de agua. Por ejemplo, sí un volumen de aire contiene su cantidad máxima de vapor de agua y la temperatura disminuye, parte de este vapor va a condensar a su forma líquida.
+El vapor de agua es una parámetro relevante en el estudio del cambio climático. El nivel de vapor de agua en la tierra es controlado por la temperatura [[7]](https://www.acs.org/content/acs/en/climatescience/about.html), es decir, mayor temperatura implica mayor vapor de agua. Por ejemplo, sí un volumen de aire contiene su cantidad máxima de vapor de agua y la temperatura disminuye, parte de este vapor va a condensar a su forma líquida.
 
 Datos del vapor de agua en América están disponibles a partir de patrones atmósfericos ofrecidos por los retadores en GIBBS [[6]](https://www.ncdc.noaa.gov/gibbs/year). En nuestro desafio, estudiamos estos datos. Para hacer esto:
 
@@ -131,7 +131,7 @@ Datos del vapor de agua en América están disponibles a partir de patrones atm�
 3. La intensidad del color de la imagen representa el vapor de agua normalizado
 
 ## 🥵 Calentamiento global: aumento del vapor de agua
-Nuestra principal contribución en el desafio fue el estudio de la evolución temporal del vapor de agua. A partir del gráfico en seguida, queda claro el aumento de la temperatura (por el aumento del vapor de agua) entre 2003 hasta el 2013.
+Nuestra principal contribución en el desafio fue el estudio de la evolución temporal del vapor de agua. A partir del gráfico en seguida. Queda claro el aumento de la temperatura (por el aumento del vapor de agua) entre 2003 hasta el 2013.
 
 ![time_series!](/anexos/time_series.png)
 
@@ -144,7 +144,7 @@ Una tendencia de aumento en el vapor de agua (o sea en la temperatura) es eviden
 
 ## 🚱 Vapor de agua: perfil gaussiano.
 
-Otro punto interesante de nuestra solución, fue la realización de un estudio sobre la distribución del vapor de agua durante el tiempo observado. Este gráfico no tiene necesariamente una contribución a la explicación del cambio climático pero demuestra dos perfiles gaussianos bien definidos de la distribución del vapor de agua lo cual quiere decir que durante todo el periodo de tiempo el vapor de agua tiene dos valores picos característicos.  
+Otro punto interesante de nuestra solución fue la realización de un estudio sobre la distribución del vapor de agua durante el tiempo observado. Este gráfico no tiene necesariamente una contribución a la explicación del cambio climático pero demuestra dos perfiles gaussianos bien definidos de la distribución del vapor de agua lo cual quiere decir que durante todo el periodo de tiempo el vapor de agua tiene dos valores picos característicos.  
 
 ![Histograma!](/anexos/histograma.png)
 
