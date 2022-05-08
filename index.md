@@ -29,7 +29,7 @@ El cambio climático es un problema que nos afecta constantemente, debido a la a
 
 ### ♨️ Aumento de la temperatura global: 
 
-Las emisiones de dióxido de carbono en la atmósfera han producido en gran medida el aumento de la temperatura promedio de la Tierra aproximadamente 1.18 grados centígrados desde finales del siglo XIX. En la gráfica se puede observar como la temperatura promedio del planeta se ha elevado de manera brusca en los ultimos 50 años; este aumento fué de 1 grado centígrado.
+Las emisiones de dióxido de carbono en la atmósfera han producido en gran medida el aumento de la temperatura promedio de la Tierra aproximadamente 1.18 grados centígrados desde finales del siglo XIX. En la gráfica se puede observar como la temperatura promedio del planeta se ha elevado de manera brusca en los últimos 50 años; este aumento fue de 1 grado centígrado.
 
 
 ![comparacao!](/anexos/GlobalTemp.png) 
