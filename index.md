@@ -8,12 +8,16 @@ El cambio climático es la variación del clima durante periodos de tiempo compa
 
 Sabías que, gran parte de estas alteraciones climáticas se debe a  las pequeñas variaciones en la órbita de la Tierra, dichas variaciones aumentan la cantidad de energía solar que recibe nuestro planeta [[1]](https://climate.nasa.gov/evidence/). 
 
-Hagamos un pequeño experimento mental, imaginemos que tenemos una rana tomando dentro de una olla con agua dándose un baño, ahora si colocamos esa olla con la rana a fuego lento, la rana no se da cuenta de que el agua se está calentando. Luego de un determinado periodo la rana muere debido a que se estuvo cocinando sin darse cuenta. 
+Hagamos un pequeño experimento mental, imaginemos que tenemos una rana dentro de una olla con agua dándose un baño, ahora si colocamos esa olla con la rana a fuego lento, la rana no percibe que el agua se está calentando. Luego de un determinado periodo la rana muere ya que no noto que se estuvo cocinando. La rana somos nosotros!
 
 ![comparacao!](/anexos/Rana_hervida.png) 
 
 
-Una manera de visualizar el cambio climático es a través del estudio de imágenes proporcionada por satélites, mediantes estas imágenes podemos estudiar cómo va variando el clima a medida que pasa el tiempo. Debiso a esto, usaremos los datos atmosféricos del desafio para mostrar cualitativamente el calentamiento global. (la idea acá es inducir un poco el porqué es importante la visualización de la data que nos proporcionaron y dar un ejemplo).
+Una manera de visualizar el cambio climático es a través del estudio de imágenes proporcionadas por satélites, variaciones en el tiempo pueden ser determinadas de esta forma. Debido a esto, nuestro objetivo es 
+
+## [Usar datos atmosféricos para mostrar cualitativamente el calentamiento global](./discusion_tecnica.md))
+
+
 
 # ¿Cómo sabemos si el cambio climático es real?
 
@@ -77,6 +81,13 @@ Huracán Irma
 
 Huracán María 
 ![comparacao!](/anexos/huracan2.gif)
+
+
+# No todo esta perdido! 
+
+Que podemos hacer:
+
+Imagen de Olga
 
 ## Referencias
 
