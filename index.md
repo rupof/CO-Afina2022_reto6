@@ -1,13 +1,11 @@
 # Los Guardianes del Clima
-Somos **Los Guardianes del Clima**
-<center>
-*Olga *Barbara *Miguel
-*Roberto       *Sebastian
+```
+Somos **Los Guardianes del Clima** 🐸
 
 ![ranita](/anexos/Rana_capa.png)
 
 Y venimos a hablarte sobre el cambio climático
-</center>
+```
 # El cambio climático
 El cambio climático es la variación del clima durante periodos de tiempo comparables que altera la composición de la atmósfera y como consecuencia afecta nuestros ecosistemas. Tristemente, la actividad humana ha producido de forma directa o indirecta el rápido cambio climático [1]. 
 
