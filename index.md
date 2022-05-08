@@ -87,33 +87,12 @@ Huracán María
 
 Que podemos hacer:
 
-Imagen de Olga
-
+![soluciones](/anexos/Mitigacion.png)
 ## Referencias
 
 [1] [NASA. Global Climate Change](https://climate.nasa.gov/evidence/)
 
 
-
-## Objetivo: Usar datos atmosféricos del desafio para mostrar cualitativamente el calentamiento global.
-
-Algunas catastrofes climáticas estan relacionadas al calentamiento global.
-
-De hecho, las podemos observar usando el conjunto de datos principal del desafio. Por ejemplo:
-
-
-Más fenomenos naturales (?)...
-
-En el reto, a partir de los datos de vapor de agua mostramos cualitativamente como la temperatura ha aumentado. Estas analisis están [aquí](./discusion_tecnica.md)
-
-Ahora, que podemos hacer para mejorar todo esto:
-
-
-Imagen solución 1
-
-Imagen solución 2
-
-Imagen solución 3
 
 
 
