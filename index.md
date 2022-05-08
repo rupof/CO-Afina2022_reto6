@@ -6,14 +6,14 @@ Sabías que, gran parte de estas alteraciones climáticas se debe a  las pequeñ
 
 Hagamos un pequeño experimento mental, imaginemos que tenemos una rana dentro de una olla con agua dándose un baño, ahora si colocamos esa olla con la rana a fuego lento, la rana no percibe que el agua se está calentando. Luego de un determinado periodo la rana muere ya que no noto que se estuvo cocinando. La rana somos nosotros!
 
-Fuente: los propios autores.
 
 ![comparacao!](/anexos/Rana_hervida.png) 
+Fuente: los propios autores.
 
 
-Una manera de visualizar el cambio climático es a través del estudio de imágenes proporcionadas por satélites, variaciones en el tiempo pueden ser determinadas de esta forma. Debido a esto, nuestro objetivo es 
+Una manera de visualizar el cambio climático es a través del estudio de imágenes proporcionadas por satélites, variaciones en el tiempo pueden ser determinadas de esta forma. Debido a esto, nuestro objetivo es **usar datos atmosféricos para mostrar cualitativamente el calentamiento global**.
 
-## [usar datos atmosféricos para mostrar cualitativamente el calentamiento global](./discusion_tecnica.md)
+Primero, veremos una discusión amplia y pedagogica sobre el calentamiento global y después nuestra tratamiento técnico.
 
 
 
@@ -23,26 +23,28 @@ El cambio climático es un problema que nos afecta constantemente, debido a la a
 
 ### Aumento de la temperatura global: 
 
-Las emisiones de dióxido de carbono en la atmósfera han producido en gran medida el aumento de la temperatura promedio de la Tierra aproximadamente 1.18 grados centígrados desde finales del siglo XIX [2]. En la gráfica se puede observar como la temperatura promedio del planeta se ha elevado de manera brusca en los ultimos 50 años; este aumento fué de 1 grado centígrado.
+Las emisiones de dióxido de carbono en la atmósfera han producido en gran medida el aumento de la temperatura promedio de la Tierra aproximadamente 1.18 grados centígrados desde finales del siglo XIX. En la gráfica se puede observar como la temperatura promedio del planeta se ha elevado de manera brusca en los ultimos 50 años; este aumento fué de 1 grado centígrado.
 
-Fuente: [4]
 
 ![comparacao!](/anexos/GlobalTemp.png) 
+Fuente: [4]
+
 
 ### Océanos que se calientan: 
 
 Debido a que los océanos almacenan el 90% de la energía sobrante en el planeta, la absorción del calor ha aumentado.
 
-Fuente: los propios autores.
 
 ![comparacao!](/anexos/oceanos.png)
+Fuente: los propios autores.
+
 
 ### Retroceso glaciar: 
 
-Los glaciares se están retrayendo en casi todas partes del mundo. Por ejemplo, Venezuela será el primer país del mundo en perder todos sus glaciares [2].
+Los glaciares se están retrayendo en casi todas partes del mundo. Por ejemplo, Venezuela será el primer país del mundo en perder todos sus glaciares.
 
-Fuente: [5]
 ![comparacao!](/anexos/humboldt_el_ultimo_glaciar.jpg)
+Fuente: [5]
 
 
 ### Cubierta de nieve reducida: 
@@ -53,31 +55,33 @@ Durante las ultimas cinco decadas la cubierta de hemiferio norte ha disminuido.
 
 Segun la medición de la masa de hielo por los satélites GRACE de la NASA, sabemos que las capas de hielo de Groenlandia ha disminuido un promedio de 279000 millones de toneladas de hielo por año, mientras que la Antartida perdió aproximadamente 14800 millones de toneladas por año en un periodo de 1993-2019.
 
-Fuente: [2]
 ![comparacao!](/anexos/LandIceAntarctica.png) 
+Fuente: [2]
+
 
 ### Aumento del nivel del mar: 
 
 En el ultimo siglo, el nivel de los mares aumentó 20 centímetros (según observaciones satelitales del nivel del mar realizadas por el Centro de Vuelo Espacial Goddard de la NASA ).
 
 
+
+![comparacao!](/anexos/undefined.png)
 Fuente: [2]
 
-![comparacao!](/anexos/undefined.png) 
 
 ### Acidificación de los océanos: 
 
 La cantidad de dioxido de carbono que absorbe la capa superior de los oceanos está aumentando aproximadamente 2000 millones de toneladas por año.
 
-Fuente: [3]
 
 ![comparacao!](/anexos/Acidificacion-mares.jpg) 
+Fuente: [2]
+
 
 ### Eventos extremos: 
 
 Como los huracanes, inundaciones y cambios bruscos de temperatura.  Un evento catastrófico que sucedió en el 2017 fue un conjunto de huracanes, los cuales son el huracán Harvey que sucedió en agosto, el huracán Irma fue del 30 de agosto al 12 de septiembre y el huracán María que fue desde el 16 de septiembre al 2 de octubre. 
  
-Fuente: los propios autores a partir de los datos de [6].
 
 
 Huracán Harvey
@@ -89,6 +93,9 @@ Huracán Irma
 Huracán María 
 ![comparacao!](/anexos/huracan2.gif)
 
+Fuente: los propios autores a partir de los datos de [6].
+
+
 
 # No todo esta perdido! 
 
@@ -96,6 +103,42 @@ Que podemos hacer:
 
 Fuente: los propios autores.
 ![soluciones](/anexos/Mitigacion.png)
+
+
+Ahora, sigue una discusión técnica de nuestra trabajo sobre lo hecho con los datos atmosféricos del hackathon. 
+
+# Discusión técnica
+
+El vapor de agua es una parámetro relevante en el estudio del cambio climático. El nivel de vapor de agua en la tierra es controlado por la temperatura [[7]](https://www.acs.org/content/acs/en/climatescience/about.html), o sea, mayor temperatura implica mayor vapor de agua. Por ejemplo, sí un volumen de aire contiene su cantidad máxima de vapor de agua y la temperatura disminuye, parte de este vapor va a condensar a su forma líquida.
+
+Datos del vapor de agua en América están disponibles a partir de patrones atmósfericos ofrecidos por los retadores en GIBBS [[6]](https://www.ncdc.noaa.gov/gibbs/year). En nuestro desafio, estudiamos estos datos. Para hacer esto:
+
+1. Extraimos todas las imagenes del satélite GOES-13 desde el 2003 hasta el 2013. Desarrollamos un pequeño [código](/extractor_de_imagenes.sh) para extraer las [imagenes](https://drive.google.com/drive/folders/1dtMERwYcy7sitbOjw02etwdH57ZS2JqX?usp=sharing)
+2. Los datos atmosféricos fueron transformados en histogramas [computacionalmente](https://github.com/Migusb/CO-Afina2022/blob/master/CO-Afina2022.ipynb).
+3. La intensidad del color de la imagen representa el vapor de agua normalizado
+
+## Calentamiento global: aumento del vapor de agua
+Nuestra principal contribución en el desafio fue el estudio de la evolución temporal del vapor de agua. A partir del gráfico en seguida, queda claro el aumento de la temperatura (por el aumento del vapor de agua) entre 2003 hasta el 2013.
+
+![time_series!](/anexos/time_series.png)
+
+
+Una tendencia de aumento en el vapor de agua (o sea en la temperatura) es evidente. Por ejemplo, el vapor de agua para el dia 8 de agosto de 2003 y 5 años después:
+
+![2003!](/anexos/2003BWimg.png)
+![2013!](/anexos/2008BWimg.png)
+
+
+## Vapor de agua: perfil gaussiano.
+
+Otro punto interesante de nuestra solución, fue la realización de un estudio sobre la distribución del vapor de agua durante el tiempo observado. Este gráfico no tiene necesariamente una contribución a la explicación del cambio climático pero demuestra dos perfiles gaussianos bien definidos de la distribución del vapor de agua lo cual quiere decir que durante todo el periodo de tiempo el vapor de agua tiene dos valores picos característicos.  
+
+![Histograma!](/anexos/histograma.png)
+
+Un posible estudio en futuro seria hacer un mapa de colores en función del tiempo de esa distribución y documentar si la segunda gaussiana tiene mayores contribuciones con el pasar del tiempo.  
+
+
+
 
 ## Referencias
 
@@ -111,5 +154,4 @@ Fuente: los propios autores.
 
 [6] [National Center for Environmental Information. GIBBS: Global ISCCP B1 Browse System](https://www.ncdc.noaa.gov/gibbs/year)
 
-
-
+[7] [ACS Climate Science Toolkit](https://www.acs.org/content/acs/en/climatescience/about.html)
