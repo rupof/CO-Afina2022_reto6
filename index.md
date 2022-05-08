@@ -46,10 +46,7 @@ Los glaciares se están retrayendo en casi todas partes del mundo.
 Como los huracanes, inundaciones y cambios bruscos de temperatura.  Un evento catastrófico que sucedió en el 2017 fue un conjunto de huracanes, los cuales son el huracán Harvey que sucedió en agosto, el huracán Irma fue del 30 de agosto al 12 de septiembre y el huracán María que fue desde el 16 de septiembre al 2 de octubre. 
 
 Huracan Irma del 9 al 11 de septiembre de 2017:
-<!---
-![comparacao!](/anexos/shortgif.gif) 
 
--->
 <img src="/anexos/shortgif.gif" alt="drawing" width="200"/>
 
 Huracan Harvey y gif
