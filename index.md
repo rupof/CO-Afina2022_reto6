@@ -11,7 +11,7 @@ Sabías que, gran parte de estas alteraciones climáticas se debe a  las pequeñ
 
 Ejemplo del sapo:
 
-(Para ilustrar el texto anterior hacemos la explicación de la rana- Charlas TED) Ahora hagamos un pequeño experimento mental, imaginemos que tenemos una rana tomando dentro de una olla con agua dándose un baño, ahora si colocamos esa olla con la rana a fuego lento, la rana no se da cuenta de que el agua se está calentando el agua. Luego de un determinado tiempo la rana muere debido a que se estuvo cocinando sin darse cuenta. (Mejorar la explicación, esto es solo un abreboca jeje)
+(Para ilustrar el texto anterior hacemos la explicación de la rana -- Charlas TED) Ahora hagamos un pequeño experimento mental, imaginemos que tenemos una rana tomando dentro de una olla con agua dándose un baño, ahora si colocamos esa olla con la rana a fuego lento, la rana no se da cuenta de que el agua se está calentando el agua. Luego de un determinado tiempo la rana muere debido a que se estuvo cocinando sin darse cuenta. (Mejorar la explicación, esto es solo un abreboca jeje)
 
 Una manera de visualizar el cambio climático es a través del estudio de imágenes proporcionada por satélites, mediantes estas imágenes podemos estudiar cómo va variando el clima a medida que pasa el tiempo. Debiso a esto, usaremos los datos atmosféricos del desafio para mostrar cualitativamente el calentamiento global. (la idea acá es inducir un poco el porqué es importante la visualización de la data que nos proporcionaron y dar un ejemplo).
 
