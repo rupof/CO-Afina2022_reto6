@@ -6,7 +6,7 @@
 
 El cambio climático es la variación del clima durante periodos de tiempo comparables que altera la composición de la atmósfera y como consecuencia afecta nuestros ecosistemas. Tristemente, la actividad humana ha producido de forma directa o indirecta el rápido cambio climático. (Según la Convención Marco de las Naciones Unidas sobre el Cambio Climático)
 
-Sabías que, gran parte de estas alteraciones climáticas se debe a  las pequeñas variaciones en la órbita de la Tierra, dichas variaciones aumentan la cantidad de energía solar que recibe nuestro planeta. [Ver más.](https://climate.nasa.gov/evidence/)
+Sabías que, gran parte de estas alteraciones climáticas se debe a  las pequeñas variaciones en la órbita de la Tierra, dichas variaciones aumentan la cantidad de energía solar que recibe nuestro planeta. (https://climate.nasa.gov/evidence/)
 
 
 Ejemplo del sapo:
@@ -41,21 +41,35 @@ Durante las ultimas cinco decadas la cubierta de hemiferio norte ha disminuido.
 
 ### Capas de hielo que se encogen: 
 
+Segun la medición de la masa de hielo por los satélites GRACE de la NASA, sabemos que las capas de hielo de Groenlandia ha disminuido un promedio de 279000 millones de toneladas de hielo por año, mientras que la Antartida perdió aproximadamente 14800 millones de toneladas por año en un periodo de 1993-2019.
+
+Credit: NASA
+
+![comparacao!](/anexos/LandIceAntarctica.png) 
+
 ### Aumento del nivel del mar: 
 
-### Reducción del hielo marino ártico: 
+En el ultimo siglo, el nivel de los mares aumentó 20 centímetros (según observaciones satelitales del nivel del mar realizadas por el Centro de Vuelo Espacial Goddard de la NASA ).
+
+
+Credit: NASA's Goddard Space Flight Center
+
+![comparacao!](/anexos/undefined.png) 
 
 ### Acidificación de los océanos: 
+
+
 
 ### Eventos extremos: 
 
 Como los huracanes, inundaciones y cambios bruscos de temperatura.  Un evento catastrófico que sucedió en el 2017 fue un conjunto de huracanes, los cuales son el huracán Harvey que sucedió en agosto, el huracán Irma fue del 30 de agosto al 12 de septiembre y el huracán María que fue desde el 16 de septiembre al 2 de octubre. 
+ 
+Huracán Harvey
 
-![comparacao!](/anexos/shortgif.gif) 
+Huracán Irma
+![comparacao!](/anexos/shortgif.gif)
 
-Huracan Harvey y gif
-
-Huracan María y gif
+Huracán María 
 
 
 ## Objetivo: Usar datos atmosféricos del desafio para mostrar cualitativamente el calentamiento global.
