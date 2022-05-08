@@ -22,7 +22,7 @@ Una tendencia de aumento en el vapor de agua (o sea en la temperatura) es eviden
 
 ## Vapor de agua: perfil gaussiano.
 
-Otro punto interesante de nuestra solución, fue la realización de un estudio sobre la distribución del vapor de agua durante el tiempo observado. Este gráfico no tiene necesariamente una contribución a la explicación del cambio climático pero demuestra dos perfiles gaussianos bien definidos de la distribución del vapor de agua.  
+Otro punto interesante de nuestra solución, fue la realización de un estudio sobre la distribución del vapor de agua durante el tiempo observado. Este gráfico no tiene necesariamente una contribución a la explicación del cambio climático pero demuestra dos perfiles gaussianos bien definidos de la distribución del vapor de agua lo cual quiere decir que durante todo el periodo de tiempo el vapor de agua tiene dos valores picos característicos.  
 
 ![Histograma!](/anexos/histograma.png)
 
