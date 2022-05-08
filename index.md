@@ -23,6 +23,10 @@ El cambio climático es un problema que nos afecta constantemente, debido a la a
 
 Las emisiones de dióxido de carbono en la atmósfera han producido en gran medida el aumento de la temperatura promedio de la Tierra aproximadamente 1.18 grados centígrados desde finales del siglo XIX.
 
+Data source: NASA's Goddard Institute for Space Studies (GISS). Credit: NASA/GISS
+
+![comparacao!](/anexos/GlobalTemp.png) 
+
 ### Océanos que se calientan: 
 
 Debido a que los océanos almacenan el 90% de la energía sobrante en el planeta, la absorción del calor ha aumentado.
