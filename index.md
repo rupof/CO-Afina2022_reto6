@@ -6,7 +6,7 @@
 
 El cambio climático es la variación del clima durante periodos de tiempo comparables que altera la composición de la atmósfera y como consecuencia afecta nuestros ecosistemas. Tristemente, la actividad humana ha producido de forma directa o indirecta el rápido cambio climático. (Según la Convención Marco de las Naciones Unidas sobre el Cambio Climático)
 
-Sabías que, gran parte de estas alteraciones climáticas se debe a  las pequeñas variaciones en la órbita de la Tierra, dichas variaciones aumentan la cantidad de energía solar que recibe nuestro planeta. [Ver](https://climate.nasa.gov/evidence/)
+Sabías que, gran parte de estas alteraciones climáticas se debe a  las pequeñas variaciones en la órbita de la Tierra, dichas variaciones aumentan la cantidad de energía solar que recibe nuestro planeta. [Ver más.](https://climate.nasa.gov/evidence/)
 
 
 Ejemplo del sapo:
