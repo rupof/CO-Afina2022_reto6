@@ -28,7 +28,7 @@ Primero, veremos una discusión amplia y pedagogica sobre el calentamiento globa
 
 El cambio climático es un problema que nos afecta constantemente, debido a la alteración de los ecosistemas. En este último siglo, hemos presenciado fuertes evidencias que confirman el rápido cambio climático. Tales como:
 
-### Aumento de la temperatura global: 
+### ♨️ Aumento de la temperatura global: 
 
 Las emisiones de dióxido de carbono en la atmósfera han producido en gran medida el aumento de la temperatura promedio de la Tierra aproximadamente 1.18 grados centígrados desde finales del siglo XIX. En la gráfica se puede observar como la temperatura promedio del planeta se ha elevado de manera brusca en los ultimos 50 años; este aumento fué de 1 grado centígrado.
 
@@ -57,7 +57,7 @@ Los glaciares se están retrayendo en casi todas partes del mundo. Por ejemplo, 
 <sub>Fuente: [5]<sub>
 
 
-### Cubierta de nieve reducida: 
+### ❄️ Cubierta de nieve reducida: 
 
 Durante las ultimas cinco decadas la cubierta de hemiferio norte ha disminuido.
 
