@@ -65,6 +65,8 @@ Credit: NASA's Goddard Space Flight Center
 
 La cantidad de dioxido de carbono que absorbe la capa superior de los oceanos está aumentando aproximadamente 2000 millones de toneladas por año.
 
+Credito: [2]
+
 ![comparacao!](/anexos/Acidificacion-mares.jpg) 
 
 ### Eventos extremos: 
@@ -89,7 +91,7 @@ Que podemos hacer:
 ## Referencias
 
 [1] [NASA. Global Climate Change](https://climate.nasa.gov/evidence/)
-
+[2] (https://www.ngenespanol.com/fotografia/acidificacion-mares/)
 
 
 
