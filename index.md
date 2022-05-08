@@ -58,7 +58,7 @@ Los glaciares se están retrayendo en casi todas partes del mundo. Por ejemplo, 
 
 ### ❄️ Cubierta de nieve reducida: 
 
-Durante las ultimas cinco décadas la cubierta de hemiferio norte ha disminuido.
+Durante las últimas cinco décadas la cubierta del hemisferio norte ha disminuido.
 
 ### 🧊 Capas de hielo que se encogen: 
 
