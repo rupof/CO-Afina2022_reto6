@@ -32,4 +32,5 @@ Un posible estudio en futuro seria hacer un mapa de colores en función del tiem
 #### Referencias 
  
 ![[1] ACS Climate Science Toolkit](https://www.acs.org/content/acs/en/climatescience/about.html)
+
 ![[2] National Center for Environmental Information. GIBBS: Global ISCCP B1 Browse System](https://www.ncdc.noaa.gov/gibbs/year)
