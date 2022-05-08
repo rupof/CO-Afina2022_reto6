@@ -12,6 +12,6 @@ Una manera de visualizar el cambio climático es a través del estudio de imáge
 
 En nuestra sitio, discutimos el calentamiento global de **dos formas**:
 
-1. ![Ilustrando e discutiendo conceptos del clima](https://rupof.github.io/CO-Afina2022_reto6/discusion_amplia.html) 
+1. ![Ilustrando e discutiendo conceptos del clima](./discusion_amplia.md) 
 
-2. ![Tratando computacionalmente los datos de imagenes satelitales proporcionados por el hackathon](https://rupof.github.io/CO-Afina2022_reto6/discusion_tecnica.html)
+2. #![Tratando computacionalmente los datos de imagenes satelitales proporcionados por el hackathon](./discusion_tecnica.md)
