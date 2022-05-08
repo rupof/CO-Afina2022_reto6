@@ -27,6 +27,7 @@ Las emisiones de dióxido de carbono en la atmósfera han producido en gran medi
 
 
 ![comparacao!](/anexos/GlobalTemp.png) 
+ 
 Fuente: [4]
 
 
@@ -45,6 +46,7 @@ Fuente: los propios autores.
 Los glaciares se están retrayendo en casi todas partes del mundo. Por ejemplo, Venezuela será el primer país del mundo en perder todos sus glaciares.
 
 ![comparacao!](/anexos/humboldt_el_ultimo_glaciar.jpg)
+ 
 Fuente: [5]
 
 
