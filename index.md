@@ -11,7 +11,7 @@ Hagamos un pequeño experimento mental, imaginemos que tenemos una rana dentro d
 
 Una manera de visualizar el cambio climático es a través del estudio de imágenes proporcionadas por satélites, variaciones en el tiempo pueden ser determinadas de esta forma. Debido a esto, nuestro objetivo es 
 
-## [Usar datos atmosféricos para mostrar cualitativamente el calentamiento global](./discusion_tecnica.md))
+## [usar datos atmosféricos para mostrar cualitativamente el calentamiento global](./discusion_tecnica.md)
 
 
 
