@@ -65,12 +65,13 @@ Credit: NASA's Goddard Space Flight Center
 Como los huracanes, inundaciones y cambios bruscos de temperatura.  Un evento catastrófico que sucedió en el 2017 fue un conjunto de huracanes, los cuales son el huracán Harvey que sucedió en agosto, el huracán Irma fue del 30 de agosto al 12 de septiembre y el huracán María que fue desde el 16 de septiembre al 2 de octubre. 
  
 Huracán Harvey
+![comparacao!](/anexos/huracan3.gif)
 
 Huracán Irma
 ![comparacao!](/anexos/shortgif.gif)
 
 Huracán María 
-
+![comparacao!](/anexos/huracan2.gif)
 
 ## Objetivo: Usar datos atmosféricos del desafio para mostrar cualitativamente el calentamiento global.
 
