@@ -14,4 +14,4 @@ En nuestra sitio, discutimos el calentamiento global de **dos formas**:
 
 1. ![Ilustrando e discutiendo conceptos del clima](./discusion_amplia.md) 
 
-2. #![Tratando computacionalmente los datos de imagenes satelitales proporcionados por el hackathon](./discusion_tecnica.md)
+2. ![Tratando computacionalmente los datos de imagenes satelitales proporcionados por el hackathon](./discusion_tecnica.md)
