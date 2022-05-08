@@ -127,7 +127,7 @@ El vapor de agua es una parámetro relevante en el estudio del cambio climático
 Datos del vapor de agua en América están disponibles a partir de patrones atmósfericos ofrecidos por los retadores en GIBBS [[6]](https://www.ncdc.noaa.gov/gibbs/year). En nuestro desafio, estudiamos estos datos. Para hacer esto:
 
 1. Extraimos todas las imagenes del satélite GOES-13 desde el 2003 hasta el 2013. Desarrollamos un pequeño [código](/extractor_de_imagenes.sh) para extraer las [imagenes](https://drive.google.com/drive/folders/1dtMERwYcy7sitbOjw02etwdH57ZS2JqX?usp=sharing)
-2. Los datos atmosféricos fueron transformados en histogramas [computacionalmente](https://github.com/Migusb/CO-Afina2022/blob/master/CO-Afina2022.ipynb).
+2. Los datos atmosféricos fueron transformados en histogramas [computacionalmente](https://nbviewer.org/github/Migusb/CO-Afina2022/blob/master/CO-Afina2022.ipynb).
 3. La intensidad del color de la imagen representa el vapor de agua normalizado
 
 ## 🥵 Calentamiento global: aumento del vapor de agua
