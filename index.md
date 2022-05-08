@@ -6,7 +6,7 @@ Somos **Los Guardianes del Clima**
 
 Y venimos a hablarte sobre el cambio climático
 
-# El cambio climático
+# 🌎 El cambio climático
 El cambio climático es la variación del clima durante periodos de tiempo comparables que altera la composición de la atmósfera y como consecuencia afecta nuestros ecosistemas. Tristemente, la actividad humana ha producido de forma directa o indirecta el rápido cambio climático [1]. 
 
 Sabías que, gran parte de estas alteraciones climáticas se debe a  las pequeñas variaciones en la órbita de la Tierra, dichas variaciones aumentan la cantidad de energía solar que recibe nuestro planeta [2]. 
@@ -24,7 +24,7 @@ Primero, veremos una discusión amplia y pedagogica sobre el calentamiento globa
 
 
 
-# ¿Cómo sabemos si el cambio climático es real? 
+# 🌎 ¿Cómo sabemos si el cambio climático es real? 
 
 El cambio climático es un problema que nos afecta constantemente, debido a la alteración de los ecosistemas. En este último siglo, hemos presenciado fuertes evidencias que confirman el rápido cambio climático. Tales como:
 
@@ -38,7 +38,7 @@ Las emisiones de dióxido de carbono en la atmósfera han producido en gran medi
 <sub>Fuente: [4]<sub>
 
 
-### Océanos que se calientan: 
+### 🌡️ Océanos que se calientan: 
 
 Debido a que los océanos almacenan el 90% de la energía sobrante en el planeta, la absorción del calor ha aumentado.
 
@@ -48,7 +48,7 @@ Debido a que los océanos almacenan el 90% de la energía sobrante en el planeta
 <sub>Fuente: los propios autores.<sub>
 
 
-### Retroceso glaciar: 
+### 🧊 Retroceso glaciar: 
 
 Los glaciares se están retrayendo en casi todas partes del mundo. Por ejemplo, Venezuela será el primer país del mundo en perder todos sus glaciares.
 
@@ -61,7 +61,7 @@ Los glaciares se están retrayendo en casi todas partes del mundo. Por ejemplo, 
 
 Durante las ultimas cinco decadas la cubierta de hemiferio norte ha disminuido.
 
-### Capas de hielo que se encogen: 
+### 🧊 Capas de hielo que se encogen: 
 
 Segun la medición de la masa de hielo por los satélites GRACE de la NASA, sabemos que las capas de hielo de Groenlandia ha disminuido un promedio de 279000 millones de toneladas de hielo por año, mientras que la Antartida perdió aproximadamente 14800 millones de toneladas por año en un periodo de 1993-2019.
 
@@ -70,7 +70,7 @@ Segun la medición de la masa de hielo por los satélites GRACE de la NASA, sabe
 <sub>Fuente: [2]<sub>
 
 
-### Aumento del nivel del mar: 
+### 🌊 Aumento del nivel del mar: 
 
 En el ultimo siglo, el nivel de los mares aumentó 20 centímetros (según observaciones satelitales del nivel del mar realizadas por el Centro de Vuelo Espacial Goddard de la NASA ).
 
@@ -81,7 +81,7 @@ En el ultimo siglo, el nivel de los mares aumentó 20 centímetros (según obser
 <sub>Fuente: [2]<sub>
 
 
-### Acidificación de los océanos: 
+### 🌊 Acidificación de los océanos: 
 
 La cantidad de dioxido de carbono que absorbe la capa superior de los oceanos está aumentando aproximadamente 2000 millones de toneladas por año.
 
@@ -91,7 +91,7 @@ La cantidad de dioxido de carbono que absorbe la capa superior de los oceanos es
 <sub>Fuente: [2]<sub>
 
 
-### Eventos extremos: 
+### ⛈️ Eventos extremos: 
 
 Como los huracanes, inundaciones y cambios bruscos de temperatura.  Un evento catastrófico que sucedió en el 2017 fue un conjunto de huracanes, los cuales son el huracán Harvey que sucedió en agosto, el huracán Irma fue del 30 de agosto al 12 de septiembre y el huracán María que fue desde el 16 de septiembre al 2 de octubre. 
  
@@ -110,7 +110,7 @@ Huracán María
 
 
 
-# No todo esta perdido! 
+# 🦾 No todo esta perdido! 
 
 Que podemos hacer:
 
@@ -121,7 +121,7 @@ Que podemos hacer:
 
 Ahora, sigue una discusión técnica de nuestra trabajo sobre lo hecho con los datos atmosféricos del hackathon. 
 
-# Discusión técnica
+# 🤓 Discusión técnica
 
 El vapor de agua es una parámetro relevante en el estudio del cambio climático. El nivel de vapor de agua en la tierra es controlado por la temperatura [[7]](https://www.acs.org/content/acs/en/climatescience/about.html), o sea, mayor temperatura implica mayor vapor de agua. Por ejemplo, sí un volumen de aire contiene su cantidad máxima de vapor de agua y la temperatura disminuye, parte de este vapor va a condensar a su forma líquida.
 
@@ -131,7 +131,7 @@ Datos del vapor de agua en América están disponibles a partir de patrones atm�
 2. Los datos atmosféricos fueron transformados en histogramas [computacionalmente](https://github.com/Migusb/CO-Afina2022/blob/master/CO-Afina2022.ipynb).
 3. La intensidad del color de la imagen representa el vapor de agua normalizado
 
-## Calentamiento global: aumento del vapor de agua
+## 🥵 Calentamiento global: aumento del vapor de agua
 Nuestra principal contribución en el desafio fue el estudio de la evolución temporal del vapor de agua. A partir del gráfico en seguida, queda claro el aumento de la temperatura (por el aumento del vapor de agua) entre 2003 hasta el 2013.
 
 ![time_series!](/anexos/time_series.png)
@@ -143,7 +143,7 @@ Una tendencia de aumento en el vapor de agua (o sea en la temperatura) es eviden
 ![2013!](/anexos/2008BWimg.png)
 
 
-## Vapor de agua: perfil gaussiano.
+## 🚱 Vapor de agua: perfil gaussiano.
 
 Otro punto interesante de nuestra solución, fue la realización de un estudio sobre la distribución del vapor de agua durante el tiempo observado. Este gráfico no tiene necesariamente una contribución a la explicación del cambio climático pero demuestra dos perfiles gaussianos bien definidos de la distribución del vapor de agua lo cual quiere decir que durante todo el periodo de tiempo el vapor de agua tiene dos valores picos característicos.  
 
