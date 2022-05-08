@@ -8,7 +8,7 @@ Hagamos un pequeño experimento mental, imaginemos que tenemos una rana dentro d
 
 
 ![comparacao!](/anexos/Rana_hervida.png) 
-Fuente: los propios autores.
+<sub><sup>Fuente: los propios autores.<sub><sup>
 
 
 Una manera de visualizar el cambio climático es a través del estudio de imágenes proporcionadas por satélites, variaciones en el tiempo pueden ser determinadas de esta forma. Debido a esto, nuestro objetivo es **usar datos atmosféricos para mostrar cualitativamente el calentamiento global**.
@@ -36,6 +36,7 @@ Debido a que los océanos almacenan el 90% de la energía sobrante en el planeta
 
 
 ![comparacao!](/anexos/oceanos.png)
+ 
 Fuente: los propios autores.
 
 
@@ -56,6 +57,7 @@ Durante las ultimas cinco decadas la cubierta de hemiferio norte ha disminuido.
 Segun la medición de la masa de hielo por los satélites GRACE de la NASA, sabemos que las capas de hielo de Groenlandia ha disminuido un promedio de 279000 millones de toneladas de hielo por año, mientras que la Antartida perdió aproximadamente 14800 millones de toneladas por año en un periodo de 1993-2019.
 
 ![comparacao!](/anexos/LandIceAntarctica.png) 
+
 Fuente: [2]
 
 
@@ -66,6 +68,7 @@ En el ultimo siglo, el nivel de los mares aumentó 20 centímetros (según obser
 
 
 ![comparacao!](/anexos/undefined.png)
+ 
 Fuente: [2]
 
 
@@ -75,6 +78,7 @@ La cantidad de dioxido de carbono que absorbe la capa superior de los oceanos es
 
 
 ![comparacao!](/anexos/Acidificacion-mares.jpg) 
+ 
 Fuente: [2]
 
 
@@ -101,8 +105,9 @@ Fuente: los propios autores a partir de los datos de [6].
 
 Que podemos hacer:
 
-Fuente: los propios autores.
 ![soluciones](/anexos/Mitigacion.png)
+ Fuente: los propios autores.
+
 
 
 Ahora, sigue una discusión técnica de nuestra trabajo sobre lo hecho con los datos atmosféricos del hackathon. 
