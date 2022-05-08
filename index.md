@@ -131,7 +131,7 @@ Datos del vapor de agua en América están disponibles a partir de patrones atm�
 3. La intensidad del color de la imagen representa el vapor de agua normalizado
 
 ## 🥵 Calentamiento global: aumento del vapor de agua
-Nuestra principal contribución en el desafio fue el estudio de la evolución temporal del vapor de agua. A partir del gráfico en seguida. Queda claro el aumento de la temperatura (por el aumento del vapor de agua) entre 2003 hasta el 2013.
+Nuestra principal contribución en el desafio fue el estudio de la evolución temporal del vapor de agua.  Mediante el siguiente grafico, observamos el aumento de la temperatura (por el aumento del vapor de agua) entre 2003 hasta el 2013.
 
 ![time_series!](/anexos/time_series.png)
 
