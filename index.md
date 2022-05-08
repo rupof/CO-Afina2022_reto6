@@ -1,9 +1,9 @@
 # Los Guardianes del Clima
 ```
 Somos **Los Guardianes del Clima** 🐸
-
+```
 ![ranita](/anexos/Rana_capa.png)
-
+```
 Y venimos a hablarte sobre el cambio climático
 ```
 # El cambio climático
