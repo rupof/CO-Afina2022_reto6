@@ -37,6 +37,8 @@ Los glaciares se están retrayendo en casi todas partes del mundo.
 
 ### Cubierta de nieve reducida: 
 
+Durante las ultimas cinco decadas la cubierta de hemiferio norte ha disminuido.
+
 ### Capas de hielo que se encogen: 
 
 ### Aumento del nivel del mar: 
