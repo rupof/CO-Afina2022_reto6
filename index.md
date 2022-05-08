@@ -71,7 +71,7 @@ Según la medición de la masa de hielo por los satélites GRACE de la NASA, sab
 
 ### 🌊 Aumento del nivel del mar: 
 
-En el ultimo siglo, el nivel de los mares aumentó 20 centímetros (según observaciones satelitales del nivel del mar realizadas por el Centro de Vuelo Espacial Goddard de la NASA ).
+En el último siglo, el nivel de los mares aumentó 20 centímetros (según observaciones satelitales del nivel del mar realizadas por el Centro de Vuelo Espacial Goddard de la NASA ).
 
 
 
