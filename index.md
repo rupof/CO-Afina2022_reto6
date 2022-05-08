@@ -8,7 +8,7 @@ Hagamos un pequeño experimento mental, imaginemos que tenemos una rana dentro d
 
 
 ![comparacao!](/anexos/Rana_hervida.png) 
-<sub><sup>Fuente: los propios autores.<sub><sup>
+<sub>Fuente: los propios autores.<sub>
 
 
 Una manera de visualizar el cambio climático es a través del estudio de imágenes proporcionadas por satélites, variaciones en el tiempo pueden ser determinadas de esta forma. Debido a esto, nuestro objetivo es **usar datos atmosféricos para mostrar cualitativamente el calentamiento global**.
@@ -28,7 +28,7 @@ Las emisiones de dióxido de carbono en la atmósfera han producido en gran medi
 
 ![comparacao!](/anexos/GlobalTemp.png) 
  
-Fuente: [4]
+<sub>Fuente: [4]<sub>
 
 
 ### Océanos que se calientan: 
@@ -38,7 +38,7 @@ Debido a que los océanos almacenan el 90% de la energía sobrante en el planeta
 
 ![comparacao!](/anexos/oceanos.png)
  
-Fuente: los propios autores.
+<sub>Fuente: los propios autores.<sub>
 
 
 ### Retroceso glaciar: 
@@ -47,7 +47,7 @@ Los glaciares se están retrayendo en casi todas partes del mundo. Por ejemplo, 
 
 ![comparacao!](/anexos/humboldt_el_ultimo_glaciar.jpg)
  
-Fuente: [5]
+<sub>Fuente: [5]<sub>
 
 
 ### Cubierta de nieve reducida: 
@@ -60,7 +60,7 @@ Segun la medición de la masa de hielo por los satélites GRACE de la NASA, sabe
 
 ![comparacao!](/anexos/LandIceAntarctica.png) 
 
-Fuente: [2]
+<sub>Fuente: [2]<sub>
 
 
 ### Aumento del nivel del mar: 
@@ -71,7 +71,7 @@ En el ultimo siglo, el nivel de los mares aumentó 20 centímetros (según obser
 
 ![comparacao!](/anexos/undefined.png)
  
-Fuente: [2]
+<sub>Fuente: [2]<sub>
 
 
 ### Acidificación de los océanos: 
@@ -81,7 +81,7 @@ La cantidad de dioxido de carbono que absorbe la capa superior de los oceanos es
 
 ![comparacao!](/anexos/Acidificacion-mares.jpg) 
  
-Fuente: [2]
+<sub>Fuente: [2]<sub>
 
 
 ### Eventos extremos: 
@@ -99,7 +99,7 @@ Huracán Irma
 Huracán María 
 ![comparacao!](/anexos/huracan2.gif)
 
-Fuente: los propios autores a partir de los datos de [6].
+<sub>Fuente: los propios autores a partir de los datos de [6].<sub>
 
 
 
@@ -108,7 +108,7 @@ Fuente: los propios autores a partir de los datos de [6].
 Que podemos hacer:
 
 ![soluciones](/anexos/Mitigacion.png)
- Fuente: los propios autores.
+<sub>Fuente: los propios autores.<sub>
 
 
 
