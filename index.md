@@ -6,7 +6,7 @@
 
 El cambio climático es la variación del clima durante periodos de tiempo comparables que altera la composición de la atmósfera y como consecuencia afecta nuestros ecosistemas. Tristemente, la actividad humana ha producido de forma directa o indirecta el rápido cambio climático. (Según la Convención Marco de las Naciones Unidas sobre el Cambio Climático)
 
-Sabías que, gran parte de estas alteraciones climáticas se debe a  las pequeñas variaciones en la órbita de la Tierra, dichas variaciones aumentan la cantidad de energía solar que recibe nuestro planeta. [[1]](https://climate.nasa.gov/evidence/)
+Sabías que, gran parte de estas alteraciones climáticas se debe a  las pequeñas variaciones en la órbita de la Tierra, dichas variaciones aumentan la cantidad de energía solar que recibe nuestro planeta [[1]](https://climate.nasa.gov/evidence/). 
 
 ![comparacao!](/anexos/Rana_hervida.png) 
 
@@ -34,7 +34,10 @@ Debido a que los océanos almacenan el 90% de la energía sobrante en el planeta
 
 ### Retroceso glaciar: 
 
-Los glaciares se están retrayendo en casi todas partes del mundo. 
+Los glaciares se están retrayendo en casi todas partes del mundo. Por ejemplo, Venezuela será el primer país del mundo en perder todos sus glaciares.
+
+![comparacao!](/anexos/humboldt_el_ultimo_glaciar.jpg)
+
 
 ### Cubierta de nieve reducida: 
 
