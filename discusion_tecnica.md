@@ -1,4 +1,4 @@
-## Discusión técnica (**en construccion**)
+## Discusión técnica
 
 El vapor de agua es una parámetro relevante en el estudio del cambio climático. El nivel de vapor de agua en la tierra es controlado por la temperatura [[1]](https://www.acs.org/content/acs/en/climatescience/about.html), o sea, mayor temperatura implica mayor vapor de agua. Por ejemplo, sí un volumen de aire contiene su cantidad máxima de vapor de agua y la temperatura disminuye, parte de este vapor va a condensar a su forma líquida.
 
