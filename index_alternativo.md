@@ -8,7 +8,10 @@ Hagamos un pequeño experimento mental, imaginemos que tenemos una rana dentro d
 
 ![comparacao!](/anexos/Rana_hervida.png) 
 
+Una manera de visualizar el cambio climático es a través del estudio de imágenes proporcionadas por satélites, variaciones en el tiempo pueden ser determinadas de esta forma. Debido a esto, nuestro objetivo es usar datos atmosféricos para mostrar cualitativamente el calentamiento global.
 
-Una manera de visualizar el cambio climático es a través del estudio de imágenes proporcionadas por satélites, variaciones en el tiempo pueden ser determinadas de esta forma. Debido a esto, nuestro objetivo es 
+En nuestra sitio, discutimos el calentamiento global de **dos formas**:
 
-## [usar datos atmosféricos para mostrar cualitativamente el calentamiento global](./discusion_tecnica.md)
+1. ![Ilustrando e discutiendo conceptos del clima](https://rupof.github.io/CO-Afina2022_reto6/discusion_amplia.html) 
+
+2. ![Tratando computacionalmente los datos de imagenes satelitales proporcionados por el hackathon](https://rupof.github.io/CO-Afina2022_reto6/discusion_tecnica.html)
