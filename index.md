@@ -8,8 +8,7 @@ El cambio climático es la variación del clima durante periodos de tiempo compa
 
 Sabías que, gran parte de estas alteraciones climáticas se debe a  las pequeñas variaciones en la órbita de la Tierra, dichas variaciones aumentan la cantidad de energía solar que recibe nuestro planeta. (https://climate.nasa.gov/evidence/)
 
-
-Ejemplo del sapo:
+<img src="/anexos/Rana_hervida.png" alt="drawing" width="550"/>
 
 (Para ilustrar el texto anterior hacemos la explicación de la rana -- Charlas TED) Ahora hagamos un pequeño experimento mental, imaginemos que tenemos una rana tomando dentro de una olla con agua dándose un baño, ahora si colocamos esa olla con la rana a fuego lento, la rana no se da cuenta de que el agua se está calentando el agua. Luego de un determinado tiempo la rana muere debido a que se estuvo cocinando sin darse cuenta. (Mejorar la explicación, esto es solo un abreboca jeje)
 
