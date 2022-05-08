@@ -2,7 +2,7 @@
 
 El cambio climático es la variación del clima durante periodos de tiempo comparables que altera la composición de la atmósfera y como consecuencia afecta nuestros ecosistemas. Tristemente, la actividad humana ha producido de forma directa o indirecta el rápido cambio climático. (Según la Convención Marco de las Naciones Unidas sobre el Cambio Climático)
 
-Sabías que, gran parte de estas alteraciones climáticas se debe a  las pequeñas variaciones en la órbita de la Tierra, dichas variaciones aumentan la cantidad de energía solar que recibe nuestro planeta [[1]](https://climate.nasa.gov/evidence/). 
+Sabías que, gran parte de estas alteraciones climáticas se debe a  las pequeñas variaciones en la órbita de la Tierra, dichas variaciones aumentan la cantidad de energía solar que recibe nuestro planeta [[1]]. 
 
 Hagamos un pequeño experimento mental, imaginemos que tenemos una rana dentro de una olla con agua dándose un baño, ahora si colocamos esa olla con la rana a fuego lento, la rana no percibe que el agua se está calentando. Luego de un determinado periodo la rana muere ya que no noto que se estuvo cocinando. La rana somos nosotros!
 
@@ -15,7 +15,7 @@ Una manera de visualizar el cambio climático es a través del estudio de imáge
 
 
 
-# ¿Cómo sabemos si el cambio climático es real?
+# ¿Cómo sabemos si el cambio climático es real? [[1]]
 
 El cambio climático es un problema que nos afecta constantemente, debido a la alteración de los ecosistemas. En este último siglo, hemos presenciado fuertes evidencias que confirman el rápido cambio climático. Tales como:
 
@@ -63,7 +63,9 @@ Credit: NASA's Goddard Space Flight Center
 
 ### Acidificación de los océanos: 
 
+La cantidad de dioxido de carbono que absorbe la capa superior de los oceanos está aumentando aproximadamente 2000 millones de toneladas por año.
 
+![comparacao!](/anexos/Acidificacion-mares.jpg) 
 
 ### Eventos extremos: 
 
