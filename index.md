@@ -11,9 +11,9 @@ Fuente: los propios autores.
 ![comparacao!](/anexos/Rana_hervida.png) 
 
 
-Una manera de visualizar el cambio climático es a través del estudio de imágenes proporcionadas por satélites, variaciones en el tiempo pueden ser determinadas de esta forma. Debido a esto, nuestro objetivo es **usar datos atmosféricos para mostrar cualitativamente el calentamiento global**.
+Una manera de visualizar el cambio climático es a través del estudio de imágenes proporcionadas por satélites, variaciones en el tiempo pueden ser determinadas de esta forma. Debido a esto, nuestro objetivo es 
 
-Primero, veremos una discusión amplia y pedagogica sobre el calentamiento global y después nuestra tratamiento técnico.
+## [usar datos atmosféricos para mostrar cualitativamente el calentamiento global](./discusion_tecnica.md)
 
 
 
@@ -23,7 +23,7 @@ El cambio climático es un problema que nos afecta constantemente, debido a la a
 
 ### Aumento de la temperatura global: 
 
-Las emisiones de dióxido de carbono en la atmósfera han producido en gran medida el aumento de la temperatura promedio de la Tierra aproximadamente 1.18 grados centígrados desde finales del siglo XIX. En la gráfica se puede observar como la temperatura promedio del planeta se ha elevado de manera brusca en los ultimos 50 años; este aumento fué de 1 grado centígrado.
+Las emisiones de dióxido de carbono en la atmósfera han producido en gran medida el aumento de la temperatura promedio de la Tierra aproximadamente 1.18 grados centígrados desde finales del siglo XIX [2]. En la gráfica se puede observar como la temperatura promedio del planeta se ha elevado de manera brusca en los ultimos 50 años; este aumento fué de 1 grado centígrado.
 
 Fuente: [4]
 
@@ -39,7 +39,7 @@ Fuente: los propios autores.
 
 ### Retroceso glaciar: 
 
-Los glaciares se están retrayendo en casi todas partes del mundo. Por ejemplo, Venezuela será el primer país del mundo en perder todos sus glaciares.
+Los glaciares se están retrayendo en casi todas partes del mundo. Por ejemplo, Venezuela será el primer país del mundo en perder todos sus glaciares [2].
 
 Fuente: [5]
 ![comparacao!](/anexos/humboldt_el_ultimo_glaciar.jpg)
@@ -69,7 +69,7 @@ Fuente: [2]
 
 La cantidad de dioxido de carbono que absorbe la capa superior de los oceanos está aumentando aproximadamente 2000 millones de toneladas por año.
 
-Fuente: [2]
+Fuente: [3]
 
 ![comparacao!](/anexos/Acidificacion-mares.jpg) 
 
@@ -97,42 +97,6 @@ Que podemos hacer:
 Fuente: los propios autores.
 ![soluciones](/anexos/Mitigacion.png)
 
-
-Ahora, sigue una discusión técnica de nuestra trabajo sobre lo hecho con los datos atmosféricos del hackathon. 
-
-# Discusión técnica
-
-El vapor de agua es una parámetro relevante en el estudio del cambio climático. El nivel de vapor de agua en la tierra es controlado por la temperatura [[7]](https://www.acs.org/content/acs/en/climatescience/about.html), o sea, mayor temperatura implica mayor vapor de agua. Por ejemplo, sí un volumen de aire contiene su cantidad máxima de vapor de agua y la temperatura disminuye, parte de este vapor va a condensar a su forma líquida.
-
-Datos del vapor de agua en América están disponibles a partir de patrones atmósfericos ofrecidos por los retadores en GIBBS [[6]](https://www.ncdc.noaa.gov/gibbs/year). En nuestro desafio, estudiamos estos datos. Para hacer esto:
-
-1. Extraimos todas las imagenes del satélite GOES-13 desde el 2003 hasta el 2013. Desarrollamos un pequeño [código](/extractor_de_imagenes.sh) para extraer las [imagenes](https://drive.google.com/drive/folders/1dtMERwYcy7sitbOjw02etwdH57ZS2JqX?usp=sharing)
-2. Los datos atmosféricos fueron transformados en histogramas [computacionalmente](https://github.com/Migusb/CO-Afina2022/blob/master/CO-Afina2022.ipynb).
-3. La intensidad del color de la imagen representa el vapor de agua normalizado
-
-## Calentamiento global: aumento del vapor de agua
-Nuestra principal contribución en el desafio fue el estudio de la evolución temporal del vapor de agua. A partir del gráfico en seguida, queda claro el aumento de la temperatura (por el aumento del vapor de agua) entre 2003 hasta el 2013.
-
-![time_series!](/anexos/time_series.png)
-
-
-Una tendencia de aumento en el vapor de agua (o sea en la temperatura) es evidente. Por ejemplo, el vapor de agua para el dia 8 de agosto de 2003 y 5 años después:
-
-![2003!](/anexos/2003BWimg.png)
-![2013!](/anexos/2008BWimg.png)
-
-
-## Vapor de agua: perfil gaussiano.
-
-Otro punto interesante de nuestra solución, fue la realización de un estudio sobre la distribución del vapor de agua durante el tiempo observado. Este gráfico no tiene necesariamente una contribución a la explicación del cambio climático pero demuestra dos perfiles gaussianos bien definidos de la distribución del vapor de agua lo cual quiere decir que durante todo el periodo de tiempo el vapor de agua tiene dos valores picos característicos.  
-
-![Histograma!](/anexos/histograma.png)
-
-Un posible estudio en futuro seria hacer un mapa de colores en función del tiempo de esa distribución y documentar si la segunda gaussiana tiene mayores contribuciones con el pasar del tiempo.  
-
-
-
-
 ## Referencias
 
 [1] [Convención Marco de las Naciones Unidas sobre el Cambio Climático](https://unfccc.int/resource/docs/convkp/convsp.pdf)
@@ -147,5 +111,5 @@ Un posible estudio en futuro seria hacer un mapa de colores en función del tiem
 
 [6] [National Center for Environmental Information. GIBBS: Global ISCCP B1 Browse System](https://www.ncdc.noaa.gov/gibbs/year)
 
-[7] [ACS Climate Science Toolkit](https://www.acs.org/content/acs/en/climatescience/about.html)
+
 
