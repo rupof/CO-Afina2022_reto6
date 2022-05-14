@@ -10,7 +10,7 @@ El cambio climático es la variación del clima durante periodos de tiempo compa
 
 Sabías que, gran parte de estas alteraciones climáticas se deben a  las pequeñas variaciones en la órbita de la Tierra, dichas variaciones aumentan la cantidad de energía solar que recibe nuestro planeta [2]. 
 
-El cambio climático se puede explicar mediante una fábula llamada "síndrome de la rana hervida", del libro "la quinta diciplina" de Peter Senge. Esta fábula consiste en un experimento mental donde nos preguntamos ¿qué pasa si una rana se lanza dentro de una olla con agua tibia y vas aumentando la temperatura gradualmente hasta que ésta  comience a hervir?. En este caso el cuerpo de la rana se irá adaptando al cambio a medida que se aumente la temperatura sutilmente, hasta que finalmente sin darse cuenta la rana muere. Debido a que la rana no notó que se estuvo cocinando. La rana somos nosotros!
+El cambio climático se puede explicar mediante una fábula llamada "síndrome de la rana hervida", del libro "la quinta diciplina" de Peter Senge. Esta fábula consiste en un experimento mental donde nos preguntamos ¿qué pasa si una rana se lanza dentro de una olla con agua tibia y vas aumentando la temperatura gradualmente hasta que ésta  comience a hervir?. En este caso el cuerpo de la rana se irá adaptando al cambio a medida que se aumente la temperatura sutilmente, hasta que finalmente sin darse cuenta la rana muere. Debido a que la rana no notó que se estuvo cocinando. La rana somos nosotros y el agua hirviendo es el calentamiento global, que es una consecuencia del cambio climático!
 
 
 ![comparacao!](/anexos/Rana_hervida.png) 
