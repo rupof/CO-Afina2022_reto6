@@ -32,7 +32,7 @@ El cambio climático es un problema que nos afecta constantemente, debido a la a
 Las emisiones de dióxido de carbono en la atmósfera han producido en gran medida el aumento de la temperatura promedio de la Tierra aproximadamente 1.18 grados centígrados desde finales del siglo XIX. En la gráfica se puede observar como la temperatura promedio del planeta se ha elevado de manera brusca en los últimos 50 años; este aumento fue de 1 grado centígrado.
 
 
-![comparacao!](/anexos/GlobalTemp.png) 
+![comparacao!](/anexos/temperature.jpg) 
  
 <sub>Fuente: [4]<sub>
 
@@ -64,7 +64,7 @@ Durante las últimas cinco décadas la cubierta del hemisferio norte ha disminui
 
 Según la medición de la masa de hielo por los satélites GRACE de la NASA, sabemos que las capas de hielo de Groenlandia han disminuido un promedio de 279000 millones de toneladas de hielo por año, mientras que la Antartida perdió aproximadamente 14800 millones de toneladas por año en un periodo de 1993-2019.
 
-![comparacao!](/anexos/LandIceAntarctica.png) 
+![comparacao!](/anexos/MasaAntartida.png) 
 
 <sub>Fuente: [2]<sub>
 
@@ -75,7 +75,7 @@ En el último siglo, el nivel de los mares aumentó 20 centímetros (según obse
 
 
 
-![comparacao!](/anexos/undefined.png)
+![comparacao!](/anexos/alturamar.jpg)
  
 <sub>Fuente: [2]<sub>
 
