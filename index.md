@@ -6,7 +6,7 @@
 Somos Los Guardianes del Clima y venimos a hablarte sobre el cambio climático...
 ```
 # 🌎 El cambio climático
-El cambio climático es la variación del clima durante periodos de tiempo comparables que altera la composición de la atmósfera y como consecuencia afecta nuestros ecosistemas. Tristemente, la actividad humana ha producido de forma directa o indirecta el rápido cambio climático [1]. 
+El cambio climático es la variación del clima durante periodos de tiempo comparables que altera la composición de la atmósfera y como consecuencia afecta los ecosistemas. Tristemente, la actividad humana ha producido de forma directa o indirecta el rápido cambio climático [1]. 
 
 Sabías que, gran parte de estas alteraciones climáticas se deben a  las pequeñas variaciones en la órbita de la Tierra, dichas variaciones aumentan la cantidad de energía solar que recibe nuestro planeta [2]. 
 
@@ -19,7 +19,7 @@ El cambio climático se puede explicar mediante una fábula llamada "síndrome d
 
 Una manera de visualizar el cambio climático es a través del estudio de imágenes proporcionadas por satélites, variaciones en el tiempo pueden ser determinadas de esta forma. Debido a esto, nuestro objetivo es **usar datos atmosféricos para mostrar cualitativamente el calentamiento global**.
 
-Primero, veremos una discusión amplia y pedagógica sobre el calentamiento global y después nuestro tratamiento técnico.
+Primero, veremos una discusión amplia y pedagógica sobre el cambio climático y después nuestro tratamiento técnico.
 
 
 
